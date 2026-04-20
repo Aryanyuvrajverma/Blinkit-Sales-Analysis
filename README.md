@@ -32,7 +32,8 @@ The Power BI dashboard provides a **comprehensive view of sales performance**, c
 
 ## Dashboard Preview
 
-<img width="1306" height="733" alt="image" src="https://github.com/user-attachments/assets/349c3456-c25a-47af-a001-7f542606d8bc" />
+<img width="1306" height="733" alt="image" src="https://github.com/user-attachments/assets/7a0e6fa3-e863-4a28-bab1-786845b23ec5" />
+
 
 
 
